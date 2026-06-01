@@ -1,0 +1,6 @@
+{
+  "name": "Wtube",
+  "description": "Short video sharing platform and TikTok clone. Features immersive full-screen vertical swipe videos, double-tap interactive heart popping, comment sections, dynamic user profile dashboards, trending audio/tags and custom short video additions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

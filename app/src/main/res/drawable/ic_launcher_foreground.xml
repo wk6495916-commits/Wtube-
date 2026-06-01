@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 1. Cyan Glow / Chromatic Offset Left-Up -->
+    <path
+        android:fillColor="#00F2FE"
+        android:pathData="M 26 32.5 L 36 32.5 L 44 60.5 L 52 42.5 L 60 60.5 L 68 32.5 L 78 32.5 L 66 74.5 L 52 46.5 L 38 74.5 Z" />
+    <path
+        android:fillColor="#00F2FE"
+        android:pathData="M 48 46.5 L 58 52.5 L 48 58.5 Z" />
+
+    <!-- 2. Neon Pink/Magenta Glow / Chromatic Offset Right-Down -->
+    <path
+        android:fillColor="#FE2C55"
+        android:pathData="M 30 35.5 L 40 35.5 L 48 63.5 L 56 45.5 L 64 63.5 L 72 35.5 L 82 35.5 L 70 77.5 L 56 49.5 L 42 77.5 Z" />
+    <path
+        android:fillColor="#FE2C55"
+        android:pathData="M 52 49.5 L 62 55.5 L 52 61.5 Z" />
+
+    <!-- 3. Absolute Crisp White Foregound Center Layer -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 28 34 L 38 34 L 46 62 L 54 44 L 62 62 L 70 34 L 80 34 L 68 76 L 54 48 L 40 76 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 50 48 L 60 54 L 50 60 Z" />
+
+</vector>
